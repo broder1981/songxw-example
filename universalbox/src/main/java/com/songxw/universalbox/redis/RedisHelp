@@ -1,0 +1,5 @@
+--------DB操作--------
+1.spring-data-redis使用RedisTemplate类来操作redis数据库。
+
+--------序列化--------
+1.RedisTemplate类会先把java对象进行序列化，然后再存储到redis中。

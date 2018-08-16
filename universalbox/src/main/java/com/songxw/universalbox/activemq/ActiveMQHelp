@@ -1,0 +1,7 @@
+--------主要的配置文件--------
+1.安装目录/conf/activemq.xml
+2.安装目录/conf/users.properties
+
+--------浏览器的默认访问地址--------
+1.http://localhost:8161/admin/
+2.用户名/密码  admin/admin
